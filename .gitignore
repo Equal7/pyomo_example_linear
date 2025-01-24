@@ -1,0 +1,4 @@
+/.venv
+/glpk-4.65
+/logs
+/__pycache__
